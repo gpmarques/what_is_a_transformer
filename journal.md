@@ -77,6 +77,10 @@
 * 2025-03-05 *
 * Doing:
     * Started the makemore part6 video, which consists of applying a convolutional layer to the makemore dataset.
+        * Applied regular conv1d to the makemore dataset, but the results were not good.
 * To do:
-    * Finish the makemore part6 video
+    * Continue the makemore part6 video
+       * Apply dilated conv1d to the makemore dataset
     * Start the makemore part7 video
+       * Apply GRU to the makemore dataset
+----------------------------------------------------
