@@ -66,9 +66,17 @@
       * Try to implement the convolutional layer mentioned in the makemore part5 video?
       * Try to implement the GRU layer mentioned in the makemore part5 video?
       * Apply what I've learned to my_mnist.ipynb notebook
+      * See DeepSeek R1 from scratch series: https://www.youtube.com/watch?v=QWNxQIq0hMo
+      * Perhaps I should create something to manage what to do next
 * Obs:
     * Nice blogs:
         * https://lilianweng.github.io/
         * https://colah.github.io/
         * https://www.offconvex.org/
 ----------------------------------------------------
+* 2025-03-05 *
+* Doing:
+    * Started the makemore part6 video, which consists of applying a convolutional layer to the makemore dataset.
+* To do:
+    * Finish the makemore part6 video
+    * Start the makemore part7 video
