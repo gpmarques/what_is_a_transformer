@@ -90,3 +90,11 @@
 * To do:
     * Review the manual and for loop conv1d with in and out features > 1
     * Create a vectorized version of conv1d with in and out features > 1
+----------------------------------------------------
+* 2025-03-08 *
+* Doing:
+    * Changed convolution shape convention to (batch, seq, features)
+    * Conv1d as matrix multiplication
+* To do:
+    * Review conv1d as matrix multiplication with in and out features > 1
+    * Create Conv1d layer with in and out features > 1
