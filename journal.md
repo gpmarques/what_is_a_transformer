@@ -98,3 +98,9 @@
 * To do:
     * Review conv1d as matrix multiplication with in and out features > 1
     * Create Conv1d layer with in and out features > 1
+----------------------------------------------------
+* 2025-03-15 *
+* Doing:
+    * Reviewed conv1d for and vectorized implementation
+    * Conv1d as matrix multiplication with F.unfold
+    * Reached same train/val loss as latest model from makemorepart5
